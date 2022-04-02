@@ -25,6 +25,7 @@ function setup() {
 
 function draw() {
   clear();
+  background(0);
   text("Coming soon..", windowWidth / 2, (windowHeight * 2) / 5 + size / 2);
 }
 
